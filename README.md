@@ -1,5 +1,6 @@
 # studen portfolio
 
 
-hey welcome to this github profile 
-i am wekcome 
+hey welcome to my github profile 
+I am learning HTML, CSS and JAVSSCRIPT
+I am frontend Developer 
